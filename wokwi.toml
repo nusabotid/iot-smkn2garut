@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = './build/smk2-garut.ino.bin'
+elf = './build/smk2-garut.ino.elf'
